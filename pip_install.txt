@@ -1,0 +1,2 @@
+python.exe -m pip install --upgrade pip
+pip install pandas numpy scikit-learn dice-ml seaborn matplotlib shap xgboost lightgbm
